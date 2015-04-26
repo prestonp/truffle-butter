@@ -3,7 +3,7 @@ Truffle Butter
 
 > Electron app to convert images to base 64
 
-[!preview](http://i.imgur.com/nv7IwuH.gifv)
+![preview](http://i.imgur.com/nv7IwuH.gif)
 
 ## Install
 
